@@ -10,7 +10,7 @@ def f_func
   end
 end
 
-assert('mruby-rubylikebacktrace') do
+assert('mruby-ruby-like-backtrace') do
 
   begin
     f_func
